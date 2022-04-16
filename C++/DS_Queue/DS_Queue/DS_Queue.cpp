@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-#define MAX_QUEUE_SIZE 2
+#define MAX_QUEUE_SIZE 4
 
 using namespace std;
 

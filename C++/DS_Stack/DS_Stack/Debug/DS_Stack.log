@@ -1,3 +1,2 @@
 ﻿  DS_Stack.cpp
-C:\Users\MNarayan\source\repos\DS_Stack\DS_Stack\DS_Stack.cpp(35): warning C4715: 'Stack::push': not all control paths return a value
-  DS_Stack.vcxproj -> C:\Users\MNarayan\source\repos\DS_Stack\Debug\DS_Stack.exe
+  DS_Stack.vcxproj -> F:\Git Repository\ManjunathNarayanan\glowing-journey\C++\DS_Stack\Debug\DS_Stack.exe

@@ -32,6 +32,7 @@ public:
 
         cout << "Push: " << value << endl;
         stack[++top] = value;
+        return true;
     }
 
     int pop()

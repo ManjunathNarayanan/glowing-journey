@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/C++/DS_Queue/.vs/DS_Queue/v17
+/C++/DS_Stack/.vs/DS_Stack/v17
+/C++/SmartPointers/.vs/SmartPointers/v17
+/FileRenameUtility/FileRenameUtility/obj/Debug
+/HotKey Finder/UniqueCharactersInString/obj/Release
+/Tournament Tracker/TournamentTracker/TrackerLibrary/obj/Debug
+*.cache
