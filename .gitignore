@@ -11,3 +11,7 @@
 /Tournament Tracker/TournamentTracker/TrackerLibrary/obj/Debug
 *.cache
 /C++/SmartPointerImplementation/.vs/SmartPointerImplementation/v17
+/HotKey Finder/.vs/UniqueCharactersInString/v17
+/HotKey Finder/UniqueCharactersInString/bin/Debug
+*.txt
+/HotKey Finder/UniqueCharactersInString/obj/Debug
