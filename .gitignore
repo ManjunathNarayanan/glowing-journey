@@ -24,3 +24,4 @@
 *.v2
 /C#/DesignPatterns/Abstract Factory/AbstractFactory/bin/Debug/net6.0
 /C#/DesignPatterns/Abstract Factory/AbstractFactory/obj
+*.v1
