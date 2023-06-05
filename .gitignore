@@ -18,3 +18,9 @@
 /C#/MinMoves/MinMoves/.vs/MinMoves
 /C#/MinMoves/MinMoves/bin/Debug/net6.0
 /C#/MinMoves/MinMoves/obj
+/C#/DesignPatterns/Abstract Factory/AbstractFactory/.vs/AbstractFactory/DesignTimeBuild
+/C#/DesignPatterns/Abstract Factory/AbstractFactory/.vs/AbstractFactory/FileContentIndex
+*.suo
+*.v2
+/C#/DesignPatterns/Abstract Factory/AbstractFactory/bin/Debug/net6.0
+/C#/DesignPatterns/Abstract Factory/AbstractFactory/obj
