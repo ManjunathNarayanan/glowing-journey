@@ -25,3 +25,6 @@
 /C#/DesignPatterns/Abstract Factory/AbstractFactory/bin/Debug/net6.0
 /C#/DesignPatterns/Abstract Factory/AbstractFactory/obj
 *.v1
+/C#/LINQ/LINQ_Queries/.vs/LINQ_Queries/FileContentIndex
+/C#/LINQ/LINQ_Queries/bin/Debug/net6.0
+/C#/LINQ/LINQ_Queries/obj
